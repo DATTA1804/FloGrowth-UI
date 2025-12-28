@@ -2,7 +2,7 @@
 
 A production-ready frontend project designed to empower Indian SMEs with essential digital tools while demonstrating advanced Growth Engineering principles.
 
-**Live Demo:** [sme-growth-toolkit.vercel.app](https://sme-growth-toolkit.vercel.app) (Replace with real URL after deployment)
+**Live Demo:** [sme-growth-toolkit.vercel.app](https://smegrowth.netlify.app/) (Replace with real URL after deployment)
 
 ## 🌟 Overview
 
@@ -67,3 +67,4 @@ We use a centralized `trackEvent` utility to capture user behavior without affec
 
 ---
 Built with ❤️ for Indian SMEs.
+
